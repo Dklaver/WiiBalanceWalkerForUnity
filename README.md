@@ -8,7 +8,7 @@
 ***
 # Release:
 
-https://github.com/Dklaver/WiiBalanceWalkerForUnity/releases/tag/UnityBalanceWalker
+[https://github.com/Dklaver/WiiBalanceWalkerForUnity/releases/tag/UnityBalanceWalker](https://github.com/Dklaver/WiiBalanceWalkerForUnity.git)
 
 Get your compiled archive in the [Releases section](https://github.com/lshachar/Wiibalancewalker/releases)<br/>
 For virtual joystick support, [install vJoy by Shaul Eizikovich](http://vjoystick.sourceforge.net/site/index.php/download-a-install/download)<br/>
