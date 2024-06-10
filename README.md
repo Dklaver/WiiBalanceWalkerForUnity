@@ -6,7 +6,9 @@
 [Uses vJoy device driver (by Shaul Eizikovich)]( http://vjoystick.sourceforge.net/)<br/>
 (Previous to  v0.5 [VJoy by headsoft](http://headsoft.com.au/index.php?category=vjoy) was used)<br/>
 ***
+# Release:
 
+https://github.com/Dklaver/WiiBalanceWalkerForUnity/releases/tag/UnityBalanceWalker
 
 Get your compiled archive in the [Releases section](https://github.com/lshachar/Wiibalancewalker/releases)<br/>
 For virtual joystick support, [install vJoy by Shaul Eizikovich](http://vjoystick.sourceforge.net/site/index.php/download-a-install/download)<br/>
