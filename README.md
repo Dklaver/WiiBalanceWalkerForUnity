@@ -1,5 +1,5 @@
 # WiiBalanceWalker made for the unity game Warehouse Surfers. 
-## WiiBalanceWalker v0.4 and before - Released by Richard Perry from GreyCube.com - Under the Microsoft Public License.
+
  
 [Uses lshachar's WiimoteLib DLL  ](https://github.com/lshachar/WiimoteLib)<br/>
 [Uses the 32Feet.NET bluetooth DLL](http://32feet.codeplex.com)<br/>
